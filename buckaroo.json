@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-littlstar-trim",
+  "dependencies": {
+    "littlstar/trim": "0.1.2",
+    "google/gtest": "1.8.0"
+  }
+}
